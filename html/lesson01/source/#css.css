@@ -1,0 +1,26 @@
+div {
+    width: 300px;
+    height: 300px;
+
+}
+*{
+margin: 0;
+padding: 0;
+}
+div.first {
+    border: 1px red solid;
+    background-color: sandybrown;
+float: left;
+}
+
+div.second {
+    border: 1px red solid;
+    background-color: seagreen;
+float: left;
+}
+
+div.three {
+    border: 1px red solid;
+    background: rgb(88, 138, 230);
+    float: left;
+}
